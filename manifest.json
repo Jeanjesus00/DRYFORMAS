@@ -1,0 +1,13 @@
+{
+  "name":"DRYFORMAS NA MEDIDA",
+  "short_name":"DRYFORMAS",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f4f8fd",
+  "theme_color":"#061a33",
+  "description":"Cálculo de materiais e orçamentos para forros, paredes e divisórias.",
+  "icons":[
+    {"src":"logo.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"logo.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
