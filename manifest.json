@@ -1,1 +1,21 @@
-{"name":"DRYFORMAS NA MEDIDA","short_name":"DRYFORMAS","start_url":"./","display":"standalone","background_color":"#f4f7fb","theme_color":"#07162f","icons":[{"src":"logo.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "name": "DRYFORMAS NA MEDIDA",
+  "short_name": "DRYFORMAS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f8fd",
+  "theme_color": "#061a33",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

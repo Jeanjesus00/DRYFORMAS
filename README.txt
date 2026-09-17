@@ -1,14 +1,18 @@
-DRYFORMAS NA MEDIDA — V3
+DRYFORMAS NA MEDIDA — V5
 
-Principais ajustes:
-- Configurações funcionando.
-- Chapa de drywall: 1,20 x 1,80 m (2,16 m²).
-- Perfis apresentados como quantidade de barras, com comprimento de barra configurável.
-- Cantoneira incluída nos sistemas aplicáveis.
-- Materiais Eucatex Divilux exibidos por nome comercial, sem códigos técnicos na tela.
-- Divilux + vidro com módulos de vidro e portas.
-- Preços editáveis diretamente no orçamento.
-- Histórico local, impressão/PDF e PWA.
-- Desperdício padrão de 5%, editável.
+Versão visual/protótipo PWA para iPhone.
 
-IMPORTANTE: os coeficientes de consumo desta versão são uma base de protótipo e devem ser conferidos/ajustados pelas tabelas técnicas dos sistemas antes de uso como medição técnica definitiva.
+Principais melhorias:
+- Interface mais próxima da prévia visual profissional.
+- Logo própria DRYFORMAS NA MEDIDA.
+- Fotos de referência no seletor de serviços.
+- Chapa Drywall 1,20 x 1,80 m.
+- Perfis convertidos para barras/peças.
+- Cantoneira ou Tabica no forro Drywall.
+- Escolha de ponta agulha ou metal-metal.
+- Eucatex Divilux com nomes dos componentes, sem códigos exibidos.
+- Portas e módulos de vidro no Divilux.
+- 5% de desperdício padrão, editável.
+- Preços, mão de obra, desconto, orçamento, PDF e histórico.
+
+Observação: coeficientes de consumo são prototipais e devem ser conferidos com as tabelas técnicas/consumo real antes de uso como medição definitiva.
