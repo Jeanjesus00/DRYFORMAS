@@ -1,27 +1,14 @@
-DRYFORMAS NA MEDIDA — V3 iPhone
+DRYFORMAS NA MEDIDA — V3
 
-V3 preparada para publicação como PWA/Web App no iPhone.
+Principais ajustes:
+- Configurações funcionando.
+- Chapa de drywall: 1,20 x 1,80 m (2,16 m²).
+- Perfis apresentados como quantidade de barras, com comprimento de barra configurável.
+- Cantoneira incluída nos sistemas aplicáveis.
+- Materiais Eucatex Divilux exibidos por nome comercial, sem códigos técnicos na tela.
+- Divilux + vidro com módulos de vidro e portas.
+- Preços editáveis diretamente no orçamento.
+- Histórico local, impressão/PDF e PWA.
+- Desperdício padrão de 5%, editável.
 
-Inclui:
-- nome oficial DRYFORMAS NA MEDIDA
-- nome curto DRYFORMAS
-- ícones 180x180, 192x192 e 512x512 baseados no logo oficial
-- Apple Touch Icon
-- manifest PWA configurado
-- modo standalone
-- tema azul/navy da marca
-- estrutura pronta para GitHub Pages ou outro HTTPS
-
-PUBLICAÇÃO:
-1. Envie TODOS os arquivos e pastas para a raiz do repositório.
-2. Ative GitHub Pages em Settings > Pages > Deploy from a branch > main > / (root).
-3. Abra o endereço publicado no Safari do iPhone.
-4. Compartilhar > Adicionar à Tela de Início.
-5. Ative “Abrir como App da Web”, se aparecer.
-6. Toque em Adicionar.
-
-IMPORTANTE:
-- O ZIP não é instalado diretamente como app.
-- O site precisa estar publicado em HTTPS.
-- O ícone usado é o logo fornecido para o projeto.
-- As fórmulas de consumo de materiais da V2 continuam sendo coeficientes iniciais de referência e devem ser conferidas com o método/produtos reais antes de usar para compras ou execução.
+IMPORTANTE: os coeficientes de consumo desta versão são uma base de protótipo e devem ser conferidos/ajustados pelas tabelas técnicas dos sistemas antes de uso como medição técnica definitiva.
